@@ -1,0 +1,8 @@
+C:\xampp\htdocs\jenkins\workspace\GitProject\Testlink\bin\Debug\Testlink.rxtmg
+C:\xampp\htdocs\jenkins\workspace\GitProject\Testlink\bin\Debug\Testlink.rxtst
+C:\xampp\htdocs\jenkins\workspace\GitProject\Testlink\bin\Debug\Testlink.exe.config
+C:\xampp\htdocs\jenkins\workspace\GitProject\Testlink\bin\Debug\Testlink.exe
+C:\xampp\htdocs\jenkins\workspace\GitProject\Testlink\bin\Debug\Testlink.pdb
+C:\xampp\htdocs\jenkins\workspace\GitProject\Testlink\obj\x86\Debug\Testlink.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\jenkins\workspace\GitProject\Testlink\obj\x86\Debug\Testlink.exe
+C:\xampp\htdocs\jenkins\workspace\GitProject\Testlink\obj\x86\Debug\Testlink.pdb

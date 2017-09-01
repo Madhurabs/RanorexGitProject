@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+id="97ed39c5-fe9f-4eae-b11b-24d2b6634e8a"
+name="TestlinkRepository"
+rxversion="7.0">
+	<codegen
+	classname="TestlinkRepository"
+	namespace="Testlink">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="81081cb2-49ce-4ae7-813e-0ab7fde86519"
+	isrooted="True"
+	name="Root"
+	searchtimeout="30000ms"
+	usecache="True">
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
